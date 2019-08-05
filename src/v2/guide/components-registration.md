@@ -91,7 +91,7 @@ new Vue({
   el: '#app',
   components: {
     'component-a': ComponentA,
-    'component-b': ComponentB
+    'component-b': Compon
   }
 })
 ```
